@@ -1,0 +1,131 @@
+nav ul li {       
+	list-style: none;
+}
+*{
+	box-sizing: border-box;
+} 
+a {
+	text-decoration: none;
+}
+a {
+	
+}
+body {
+	padding: 54px 52px;
+}
+header {
+	margin-bottom: 50px;
+}
+.logo {
+
+	vertical-align: middle;
+	margin-right: 60px;
+}
+nav {
+	display: inline-block;
+}
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 87px;
+}
+a {
+	font-size: 26px;
+	color:  #8D81FF;
+}
+img {
+	margin-right: 52px;
+
+}
+.pbox {
+	display: inline-block;
+	color: #4E6FAE;
+	width: 778px;
+	vertical-align: top;
+	margin-bottom: 45px;
+;
+}
+p {
+	display: inline-block;
+}
+.box {
+	width: 40px;
+	height:40px;
+	background-color:#5012D5 ;
+	color: #84FF81;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 18px;
+
+}
+h3 {
+	font-size: 24px;
+	color: #8D81FF;
+}
+h4 {
+	font-size: 20px;
+	color: #4E6FAE;
+	margin-bottom: 25px;
+}
+.daxril {
+	margin-right: 52px;
+	vertical-align: top;
+	margin-bottom: 40px;
+}
+.pbox2 {
+	display: inline-block;
+	color:  #4E6FAE;
+	width: 778px;
+	vertical-align: top;
+	margin-bottom: 40px;
+}
+.komp {
+	margin-bottom: 25px;
+}
+h3 {
+	font-family: 'BPG Nino Mkhedruli',sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+   color: #8D81FF;
+}
+h4 {
+	font-family: ''GL Tatishvili Metal'',sans-serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 20px;
+   line-height: 24px;
+   color: #4E6FAE;
+}
+.pbox {
+	  font-family: 'GL Kirovi',sans-serif;
+     font-style: normal;
+    font-weight: 700;
+   font-size: 16px;
+  line-height: 19px;
+
+color: #4E6FAE;
+
+}
+.pbox2 {
+	    font-family: 'GL Kirovi',sans-serif;
+        font-style: normal;
+       font-weight: 700;
+      font-size: 16px;
+     line-height: 19px;
+    color: #4E6FAE;
+}
+.afrodite {
+	font-family: 'GL Kirovi';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+  line-height: 19px;
+  color: #4E6FAE;
+
+}
+
+
+
+
